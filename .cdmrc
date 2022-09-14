@@ -1,3 +1,4 @@
 tabs: ['test/hello.test.js', 'vite.config.js']
 live-reload-browser: false
+browser-link: /__vitest__
 terminal-one: yarn install && yarn test:ui
