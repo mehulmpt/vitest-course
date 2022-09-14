@@ -1,0 +1,12 @@
+{
+	"name": "vite-react-starter",
+	"version": "0.0.0",
+	"scripts": {
+		"test:ui": "vitest --ui --api 1337"
+	},
+	"devDependencies": {
+		"vite": "^3.0.0",
+		"@vitest/ui": "^0.23.2",
+		"vitest": "^0.23.2"
+	}
+}

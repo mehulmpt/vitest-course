@@ -1,0 +1,3 @@
+tabs: ['test/hello.test.jsx', 'vite.config.js']
+live-reload-browser: false
+terminal-one: yarn install && yarn test:ui
